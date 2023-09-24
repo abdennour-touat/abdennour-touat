@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdennour-touat
 - 👀 I’m interested in AI and systems
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me abdenour.touat@outlook.com
 
